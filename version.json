@@ -1,7 +1,7 @@
 {
-  "version": "3.7.0",
-  "versionCode": 14,
-  "downloadUrl": "https://github.com/manvok/Sales-Tracker-Pro/releases/download/v3.7.0/app-release.apk",
+  "version": "3.7.5",
+  "versionCode": 15,
+  "downloadUrl": "https://github.com/manvok/Sales-Tracker-Pro/releases/download/v3.7.5/app-release.apk",
   "releaseNotes": "Bug fixes and improvements",
   "forceUpdate": false
 }
